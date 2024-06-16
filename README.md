@@ -15,8 +15,5 @@
     - Run the server shell script for a particular part.
     - Run the corresponding client shell script for that part.
 
-## Part 1 Demo
-
-## Part 2 Demo
-
-## Part 3 Demo
+## Demo
+Demos are placed in each part directory.
