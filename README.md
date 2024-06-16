@@ -1,5 +1,9 @@
 # Server-Client Simulation
-
+<div align="center">
+          <img src = "https://github.com/CameronJ2/Server-Client-Simulation/assets/114731000/b1c26eb3-e0c2-4e21-a8ee-8c05601f05dc"
+	width = "300"
+	height = "300" />
+</div>
 ## Description 
 	This project was created as an assignment for my Operating Systems Course. It's 
     a three-part project. Part 1 consists of simulating system calls from a client,
